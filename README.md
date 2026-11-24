@@ -1,15 +1,14 @@
 <div align="center">
   <h1>Xin chào, mình là Trần Đình Trung Hiếu 👋</h1>
   <p><b>Data Analyst • Business Analyst • Data Engineering (ETL/OLAP)</b></p>
-  <p>Sinh viên ngành Hệ thống Thông tin (UIT - ĐHQG TP.HCM) | Đam mê chuyển hóa dữ liệu thô thành quyết định kinh doanh.</p>
+  <p>Sinh viên ngành Hệ thống Thông tin (UIT - ĐHQG TP.HCM) | Định hướng chuyển hóa dữ liệu thô thành quyết định kinh doanh.</p>
 </div>
 
 ---
 
 ### 🧑‍💻 Về bản thân
-- 🔭 Đang tập trung phát triển các dự án về **Data Warehouse (ETL/OLAP)**, **Business Intelligence**, **ERP/CRM** và **Cloud MLOps**.
-- 🌱 Thành thạo quy trình xử lý dữ liệu từ thiết kế cơ sở dữ liệu quan hệ, xây dựng luồng ETL, phân tích đa chiều (OLAP/MDX) đến trực quan hóa Dashboard.
-- 🎓 Chứng chỉ: **Google Gemini Certified Educator**.
+- 💼 Đã xây dựng và hoàn thiện các dự án trong lĩnh vực **Data Warehouse (ETL/OLAP)**, **Business Intelligence**, **ERP/CRM** và **Cloud MLOps** (các repository bên dưới đều là sản phẩm hoàn chỉnh được lưu trữ làm portfolio).
+- 📊 Nắm vững quy trình xử lý dữ liệu từ thiết kế cơ sở dữ liệu quan hệ, xây dựng luồng ETL, phân tích đa chiều (OLAP/MDX) đến trực quan hóa Dashboard.
 - 📫 Liên hệ: `your.email@gmail.com` *(thay bằng email của bạn)*
 
 ---
