@@ -9,7 +9,7 @@
 ### 🧑‍💻 Về bản thân
 - 💼 Đã xây dựng và hoàn thiện các dự án trong lĩnh vực **Data Warehouse (ETL/OLAP)**, **Business Intelligence**, **ERP/CRM** và **Cloud MLOps** (các repository bên dưới đều là sản phẩm hoàn chỉnh được lưu trữ làm portfolio).
 - 📊 Nắm vững quy trình xử lý dữ liệu từ thiết kế cơ sở dữ liệu quan hệ, xây dựng luồng ETL, phân tích đa chiều (OLAP/MDX) đến trực quan hóa Dashboard.
-- 📫 Liên hệ: `your.email@gmail.com` *(thay bằng email của bạn)*
+- 📫 Liên hệ: hieutdt.25@gmail.com
 
 ---
 
